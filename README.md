@@ -24,8 +24,8 @@
 <div align="center">  
   
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="75" />
-
-   <img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" />
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" />
 
 </br>
 
