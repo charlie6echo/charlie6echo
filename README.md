@@ -39,13 +39,11 @@
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-sourc/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50" />
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
-
-
 </div></td><td valign="bottom" width="20%">
 
 ### Data Visualization  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="Swift" height="50" />  
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/matplotlib-1.svg" alt="Matplotlib" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -55,8 +53,8 @@
 ### Image Processing  
 <div align="center">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/pillow-logo.svg" alt="pillow" height="50" />  
+<img style="margin: 10px" src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" height="50" />  
 
 
 </div></td><td valign="top" width="20%">
