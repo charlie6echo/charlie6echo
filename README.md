@@ -37,7 +37,7 @@
 
 
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="bottom" width="20%">
 
 ### Data Visualization  
 <div align="center">  
