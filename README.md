@@ -38,6 +38,7 @@
 </br>
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />   
 </br>
+<img style="margin: 10px" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png" alt="MongoDB" height="50" />
 
 </div></td><td valign="top" width="20%">
 
