@@ -20,7 +20,7 @@
 
 
 ## My Skill Set    
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="25%">
 
 ### Fundamentals  
 <div align="center">  
@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
 </br>
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="25%">
 
 ### Machine Learning  
 <div align="center">  
@@ -47,13 +47,13 @@
 </br>
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="25%">
 
 ### Data Visualization  
 <div align="center">  
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/matplotlib-1.svg" alt="Matplotlib" height="50" />  
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="25%">
   
 ### Image Processing  
 <div align="center">  
@@ -64,7 +64,7 @@
 <img style="margin: 10px" src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" height="50" />  
 
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="25%">
 
 ### NLP  
 <div align="center">  
