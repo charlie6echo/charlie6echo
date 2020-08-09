@@ -23,11 +23,10 @@
   
 <div align="center">  
   
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="75" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="60" />
 <img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" />
 
-</br>
+<br/> 
 
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Jupyter_logo.svg" alt="Jupyter" height="75" />
 
@@ -42,7 +41,7 @@
 <img style="margin: 10px" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png" alt="MongoDB" height="50" />
 
 
-</br>
+<br/> 
 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
 
@@ -52,12 +51,12 @@
 
 <img style="margin: 10px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="NumPy" height="50" />
 
-</br>
+<br/> 
 
 
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/matplotlib-1.svg" alt="Matplotlib" height="50" />  
 
-</br>
+<br/> 
   
 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />
@@ -66,7 +65,7 @@
 </br>
 <img style="margin: 10px" src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" height="50" />  
 
-</br>
+<br/> 
 
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg" alt="NLTK" height="30" />  
 
@@ -74,7 +73,7 @@
 </div></td></tr></table> 
   
 
-<br/>  
+<br/>   
 
 
 ## Connect with me  
