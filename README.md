@@ -36,16 +36,16 @@
 
 <img style="margin: 10px" src="https://www.anaconda.com/imager/assetsdo/resources/open-source/8947/1811108_4be5a24f83a061afe74337411372d6be.png" alt="NumPy" height="50" />
 </br>
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />   
 </br>
 
 </div></td><td valign="top" width="20%">
 
 ### Machine Learning  
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
 </br>
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="60" />
 </br>
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />   
 </br>
@@ -82,6 +82,7 @@
 
 
 ## Connect with me  
+<div align="center">
 <a href="https://github.com/charlie6echo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
