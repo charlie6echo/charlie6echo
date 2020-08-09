@@ -36,7 +36,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />    
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-sourc/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-sourc/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50" />
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
 
