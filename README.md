@@ -41,8 +41,10 @@
 
 ### Machine Learning  
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />    
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />
+</br>
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />
+</br>
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
 </div></td><td valign="top" width="20%">
@@ -55,8 +57,10 @@
   
 ### Image Processing  
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />
+  </br>
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/pillow-logo.svg" alt="pillow" height="30" />  
+</br>
 <img style="margin: 10px" src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" height="50" />  
 
 
