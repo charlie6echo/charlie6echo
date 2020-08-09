@@ -25,7 +25,10 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" height="50" />
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="github" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="50" />
 </div>  
 
 <br/>  
