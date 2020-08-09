@@ -34,6 +34,8 @@
 </br>
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/NumPy_logo.svg" alt="NumPy" height="50" />
 </br>
+<img style="margin: 10px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="NumPy" height="50" />
+</br>
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
 </br>
 
