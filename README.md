@@ -38,7 +38,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />    
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
-</div></td><td valign="bottom" width="20%">
+</div></td><td valign="top" width="20%">
 
 ### Data Visualization  
 <div align="center">  
@@ -57,7 +57,7 @@
 
 ### NLP  
 <div align="center">  
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg" alt="NLTK" height="50" />  
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg" alt="NLTK" height="30" />  
 
   
 </div></td></tr></table> 
