@@ -24,11 +24,12 @@
 
 ### Fundamentals  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="75" />
-//<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Jupyter_logo.svg" alt="Jupyter" height="75" />
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Pandas_logo.svg" alt="Pandas" height="75" />
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/NumPy_logo.svg" alt="NumPy" height="75" />
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />   
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="Python" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Jupyter_logo.svg" alt="Jupyter" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Pandas_logo.svg" alt="Pandas" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/NumPy_logo.svg" alt="NumPy" height="50" />
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
 
 </div></td><td valign="top" width="20%">
 
