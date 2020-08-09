@@ -49,7 +49,7 @@
 ### Image Processing  
 <div align="center">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/pillow-logo.svg" alt="pillow" height="50" />  
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/pillow-logo.svg" alt="pillow" height="30" />  
 <img style="margin: 10px" src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" height="50" />  
 
 
