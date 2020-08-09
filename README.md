@@ -24,7 +24,10 @@
 
 ### Fundamentals  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Jupyter_logo.svg" alt="Jupyter" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/Pandas_logo.svg" alt="Pandas" height="50" />
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/NumPy_logo.svg" alt="NumPy" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
 
 </div></td><td valign="top" width="20%">
@@ -33,6 +36,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />    
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-sourc/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" />
+<img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
 
 
