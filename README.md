@@ -36,7 +36,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />    
-<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-sourc/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50" />
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />    
 
 </div></td><td valign="bottom" width="20%">
@@ -44,9 +43,6 @@
 ### Data Visualization  
 <div align="center">  
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/matplotlib-1.svg" alt="Matplotlib" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
 
 </div></td><td valign="top" width="20%">
   
@@ -61,9 +57,8 @@
 
 ### NLP  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" /> 
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg" alt="NLTK" height="50" />  
+
   
 </div></td></tr></table> 
   
