@@ -38,12 +38,13 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="panda" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplolib" height="50" />&nbsp;&nbsp;
+<img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplolib" height="40" />&nbsp;&nbsp;
 
 <br/>
 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> &nbsp;&nbsp; 
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" alt="scrapy" height="50" /> &nbsp;&nbsp; 
 </div>  
 
 <br/>  
