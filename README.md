@@ -28,7 +28,6 @@
 <br/>
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />&nbsp;&nbsp;  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />&nbsp;&nbsp;
-
 <img style="margin: 10px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" alt="keras" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="50" />
 <br/> 
@@ -45,7 +44,7 @@
 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> &nbsp;&nbsp; 
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" alt="scrapy" height="50" /> &nbsp;&nbsp; 
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" alt="scrapy" height="50" /> 
 </div>  
 
 <br/>  
