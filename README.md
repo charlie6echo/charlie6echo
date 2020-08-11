@@ -3,8 +3,9 @@
 
 # <div align="center">WELCOME TO THE MATRIX 👨‍💻</div>  
   
+### <div align="center">I'm shubham, a Machine Learning Researcher 🤖</div>  
 
-- #### 🔭 I’m currently working at IIT Bombay  
+-  🔭 I’m currently working at IIT Bombay  
   
 
 - 🌱 I’m currently learning AI constriant methods  
