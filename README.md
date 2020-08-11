@@ -39,9 +39,9 @@
 
 <br/> 
 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
+<img style="margin: 30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="60" />
+<img style="margin: 30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="60" />
 
 <img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />   
 
