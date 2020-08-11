@@ -22,7 +22,7 @@
 ## My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" height="50" />
 
 <br/>
@@ -30,10 +30,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" alt="keras" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="50" />
-<br/> 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />&nbsp;&nbsp;  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />
+
 <br/>   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" height="50" />&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" height="50" />&nbsp;&nbsp;
@@ -43,8 +40,16 @@
 <br/>
 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> &nbsp;&nbsp; 
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" alt="scrapy" height="50" /> 
+<img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg?mtime=20200506212427&focal=none" alt="nltk" height="40" />&nbsp;&nbsp;
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" alt="scrapy" height="50" />&nbsp;&nbsp; 
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
+ 
+
+<br/> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />&nbsp;&nbsp;  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />
+
 </div>  
 
 <br/>  
