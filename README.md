@@ -75,7 +75,7 @@
 <img style="margin: 10px" src="https://assets-cdn.anaconda.com/assets/resources/open-source/nltk-logo.svg" alt="NLTK" height="30" />  
 
   
-</div></td></tr></table> 
+</div>
   
 
 <br/>   
