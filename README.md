@@ -39,13 +39,13 @@
 
 <br/> 
 
-<img style="margin: 30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
+<img style="margin: 50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="60" />
 
-<img style="margin: 30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="60" />
+<img style="margin: 50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="60" />
 
-<img style="margin: 10px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />   
+<img style="margin: 50px" src="https://keras.io/img/logo.png" alt="pytorch" height="50" />   
 
-<img style="margin: 10px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="NumPy" height="50" />
+<img style="margin: 50px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="NumPy" height="50" />
 
 <br/> 
   
