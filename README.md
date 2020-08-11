@@ -28,8 +28,9 @@
 <br/>
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />&nbsp;&nbsp;  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" alt="keras" height="50" />
+
+<img style="margin: 10px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" alt="keras" height="50" />&nbsp;&nbsp;
+<img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="50" />
 <br/> 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />&nbsp;&nbsp;  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;
