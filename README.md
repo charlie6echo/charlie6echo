@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to Image processing and NLP  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I can Handle Tensorflow 1.x Errors 
   
 
 <br/>  
