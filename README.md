@@ -30,7 +30,7 @@
 <br/>
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img style="margin: 10px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" alt="sci-kit" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="sci-kit" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img style="margin: 10px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="50" />
 
 <br/> 
