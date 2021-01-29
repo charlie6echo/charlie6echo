@@ -50,8 +50,8 @@
 <br/> 
 <br/> 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="Linux" height="50" />
 
 </div>  
 
