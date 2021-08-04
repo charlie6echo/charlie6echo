@@ -5,7 +5,7 @@
   
 ### <div align="center">I'm shubham, a Machine Learning Researcher 🤖</div>  
 
--  🔭 I’m currently working at IIT Bombay  
+-  🔭 I’m currently working as Cmputer vision Engineer at EarthSense.
   
 
 - 🌱 I’m currently learning AI constriant methods  
