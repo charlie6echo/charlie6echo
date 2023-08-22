@@ -5,16 +5,16 @@
   
 ### <div align="center">I'm shubham, a Machine Learning Researcher 🤖</div>  
 
--  🔭 I’m currently working as Computer Vision Engineer at EarthSense.
+-  🔭 I’m currently working as Autonomy Engineer at EarthSense.
   
 
-- 🌱 I’m currently learning AI constriant methods  
+- 🌱 I’m currently training robots to navigate autonomously.  
   
 
-- ❓ Ask me about anything related to Image processing and NLP  
+- ❓ Ask me about anything related AI and robotics  
   
 
-- ⚡ Fun fact: I can Handle Tensorflow 1.x Errors 
+- ⚡ Fun fact: I can Handle ROS and ROS2 Errors 
   
 
 <br/>  
