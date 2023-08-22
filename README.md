@@ -3,7 +3,7 @@
 
 # <div align="center">WELCOME TO THE MATRIX 👨‍💻</div>  
   
-### <div align="center">I'm shubham, a Machine Learning Researcher 🤖</div>  
+### <div align="center">I'm shubham, a AI and Robotics Researcher 🤖</div>  
 
 -  🔭 I’m currently working as Autonomy Engineer at EarthSense.
   
